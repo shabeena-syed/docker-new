@@ -1,0 +1,4 @@
+# to know about the port number enabled for appliction
+#label for filter one image among 1000s of images 
+FROM almalinux:9
+EXPOSE 80
