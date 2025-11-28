@@ -1,4 +1,4 @@
 FROM almalinux:9
 ADD https://raw.githubusercontent.com/daws-78s/learn-python/refs/heads/master/01_variables.py /tmp/session.txt
 ADD sample-1.tar /tmp/
-CMD [ "sleep","60" ]
+CMD [ "sleep","360" ]
