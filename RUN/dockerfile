@@ -1,3 +1,5 @@
 # run for install pakges and configure them
 FROM almalinux:9
 RUN dnf install nginx -y
+# CMD run the container
+# RUN install the pakages
